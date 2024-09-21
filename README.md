@@ -7,7 +7,7 @@ Uma calculadora gráfica com interface personalizada usando a biblioteca [Custom
 
 ## Captura de Tela
 |---------------|------------|
-| **Tela**     | [Captura de Tela](./screenshots/screenshot.png) |
+| **Tela**     | ![Captura de Tela](./screenshots/screenshot.png) |
 
 ## Funcionalidades
 
