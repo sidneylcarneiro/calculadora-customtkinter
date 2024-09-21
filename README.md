@@ -6,7 +6,7 @@
 Uma calculadora gráfica com interface personalizada usando a biblioteca [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter). Este projeto permite a personalização das cores da calculadora, persistindo a configuração de tema entre as execuções. A calculadora suporta operações aritméticas básicas e tem funções como copiar o resultado e inverter o sinal dos números.
 
 ## Captura de Tela
-![Captura de Tela]([./screenshots/screenshot.png](https://github.com/sidneylcarneiro/calculadora-customtkinter/blob/main/screenshots/screenshot.png))
+| **Tela**     | [Captura de Tela](./screenshots/screenshot.png) |
 
 ## Funcionalidades
 
